@@ -56,12 +56,10 @@ Facultatif (F)
 14. Les références bibliographiques. O
 15. Les annexes. F
 16. Les documents spéciaux. F
-* Pour les mémoires de maîtrise, le jury peut demander que cette page soit retirée lors du dépôt final. L’étudiant devra vérifier auprès
-du TGDE de son unité si cette demande a été faite sur le formulaire d’évaluation du mémoire. Autrement elle reste obligatoire.
+* Pour les mémoires de maîtrise, le jury peut demander que cette page soit retirée lors du dépôt final. L’étudiant devra vérifier auprès du TGDE de son unité si cette demande a été faite sur le formulaire d’évaluation du mémoire. Autrement elle reste obligatoire.
 † Élément à inclure obligatoirement uniquement si le document est écrit dans une autre langue que l’anglais ou le français.
 
-> 3. Selon la forme de mémoire ou de thèse choisie, certains éléments pourraient ne pas être pertinents. Nous énumérons ici
-les éléments pour les documents dont le contenu est majoritairement textuel.
+> 3. Selon la forme de mémoire ou de thèse choisie, certains éléments pourraient ne pas être pertinents. Nous énumérons ici les éléments pour les documents dont le contenu est majoritairement textuel.
 
 ## La page de titre
 Une page de titre standard est présentée à l’Annexe B. Si la langue de rédaction est autre que le français, la page de titre doit tout de même être écrite en français, à l’exception du titre du mémoire ou de la thèse.
